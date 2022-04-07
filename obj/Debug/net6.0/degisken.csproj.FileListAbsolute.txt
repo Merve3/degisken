@@ -1,0 +1,15 @@
+/Users/merveipekci/Desktop/C#/degisken/bin/Debug/net6.0/degisken
+/Users/merveipekci/Desktop/C#/degisken/bin/Debug/net6.0/degisken.deps.json
+/Users/merveipekci/Desktop/C#/degisken/bin/Debug/net6.0/degisken.runtimeconfig.json
+/Users/merveipekci/Desktop/C#/degisken/bin/Debug/net6.0/degisken.dll
+/Users/merveipekci/Desktop/C#/degisken/bin/Debug/net6.0/degisken.pdb
+/Users/merveipekci/Desktop/C#/degisken/obj/Debug/net6.0/degisken.csproj.AssemblyReference.cache
+/Users/merveipekci/Desktop/C#/degisken/obj/Debug/net6.0/degisken.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merveipekci/Desktop/C#/degisken/obj/Debug/net6.0/degisken.AssemblyInfoInputs.cache
+/Users/merveipekci/Desktop/C#/degisken/obj/Debug/net6.0/degisken.AssemblyInfo.cs
+/Users/merveipekci/Desktop/C#/degisken/obj/Debug/net6.0/degisken.csproj.CoreCompileInputs.cache
+/Users/merveipekci/Desktop/C#/degisken/obj/Debug/net6.0/degisken.dll
+/Users/merveipekci/Desktop/C#/degisken/obj/Debug/net6.0/refint/degisken.dll
+/Users/merveipekci/Desktop/C#/degisken/obj/Debug/net6.0/degisken.pdb
+/Users/merveipekci/Desktop/C#/degisken/obj/Debug/net6.0/degisken.genruntimeconfig.cache
+/Users/merveipekci/Desktop/C#/degisken/obj/Debug/net6.0/ref/degisken.dll
